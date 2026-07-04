@@ -1,4 +1,4 @@
-```markdown
+
 # 🎬 CineSync
 
 **CineSync** is a feature-rich, modern entertainment and movie-tracking platform tailored specifically for cinema enthusiasts (cinephiles). It serves as a comprehensive hub where users can discover new titles, manage their personal watch histories, curate deeply customized watchlists, and seamlessly collaborate with friends on shared collections.
@@ -34,7 +34,6 @@ The architecture is split into a decoupled frontend and backend to guarantee opt
 - **Caching & Session Management:** Redis (for lightning-fast session storage and high-frequency query caching).
 - **Authentication:** JWT (JSON Web Tokens) with secure HTTP-only cookies and OAuth2 (Google/GitHub integration).
 
----
 
 ## ⚙️ Installation & Getting Started
 
